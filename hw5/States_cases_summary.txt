@@ -1,0 +1,384 @@
+COVID-19 Statistics for WI:
+  - Average Daily Cases: 1680.15
+  - Highest Cases on: 20201118 (8510 cases)
+  - Most Recent Zero New Cases on: 20200303
+  - Month with Highest Total Cases: 2020-11 (173860 cases)
+  - Month with Lowest Total Cases: 2020-03 (1585 cases)
+
+COVID-19 Statistics for CT:
+  - Average Daily Cases: 764.96
+  - Highest Cases on: 20201228 (8457 cases)
+  - Most Recent Zero New Cases on: 20200229
+  - Month with Highest Total Cases: 2020-12 (68413 cases)
+  - Month with Lowest Total Cases: 2020-02 (0 cases)
+
+COVID-19 Statistics for WV:
+  - Average Daily Cases: 363.61
+  - Highest Cases on: 20210101 (2486 cases)
+  - Most Recent Zero New Cases on: 20200306
+  - Month with Highest Total Cases: 2020-12 (37492 cases)
+  - Month with Lowest Total Cases: 2020-03 (162 cases)
+
+COVID-19 Statistics for UT:
+  - Average Daily Cases: 1024.18
+  - Highest Cases on: 20201127 (6142 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2020-11 (81050 cases)
+  - Month with Lowest Total Cases: 2020-03 (886 cases)
+
+COVID-19 Statistics for MA:
+  - Average Daily Cases: 1438.82
+  - Highest Cases on: 20210102 (9003 cases)
+  - Most Recent Zero New Cases on: 20200122
+  - Month with Highest Total Cases: 2020-12 (149046 cases)
+  - Month with Lowest Total Cases: 2020-02 (0 cases)
+
+COVID-19 Statistics for TX:
+  - Average Daily Cases: 7261.67
+  - Highest Cases on: 20201101 (71734 cases)
+  - Most Recent Zero New Cases on: 20200303
+  - Month with Highest Total Cases: 2021-01 (604460 cases)
+  - Month with Lowest Total Cases: 2020-03 (3266 cases)
+
+COVID-19 Statistics for NV:
+  - Average Daily Cases: 804.86
+  - Highest Cases on: 20210107 (3402 cases)
+  - Most Recent Zero New Cases on: 20200305
+  - Month with Highest Total Cases: 2020-12 (72562 cases)
+  - Month with Lowest Total Cases: 2020-03 (1112 cases)
+
+COVID-19 Statistics for WA:
+  - Average Daily Cases: 820.31
+  - Highest Cases on: 20210104 (8644 cases)
+  - Most Recent Zero New Cases on: 20200113
+  - Month with Highest Total Cases: 2021-01 (69267 cases)
+  - Month with Lowest Total Cases: 2020-01 (2 cases)
+
+COVID-19 Statistics for FL:
+  - Average Daily Cases: 4725.76
+  - Highest Cases on: 20210102 (30531 cases)
+  - Most Recent Zero New Cases on: 20200129
+  - Month with Highest Total Cases: 2021-01 (389172 cases)
+  - Month with Lowest Total Cases: 2020-02 (0 cases)
+
+COVID-19 Statistics for SC:
+  - Average Daily Cases: 1425.11
+  - Highest Cases on: 20210103 (8951 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2021-01 (135879 cases)
+  - Month with Lowest Total Cases: 2020-03 (1083 cases)
+
+COVID-19 Statistics for LA:
+  - Average Daily Cases: 1185.2
+  - Highest Cases on: 20210106 (6876 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2021-01 (85351 cases)
+  - Month with Lowest Total Cases: 2021-03 (3685 cases)
+
+COVID-19 Statistics for KS:
+  - Average Daily Cases: 806.16
+  - Highest Cases on: 20201123 (7526 cases)
+  - Most Recent Zero New Cases on: 20200306
+  - Month with Highest Total Cases: 2020-11 (72265 cases)
+  - Month with Lowest Total Cases: 2020-03 (428 cases)
+
+COVID-19 Statistics for HI:
+  - Average Daily Cases: 77.78
+  - Highest Cases on: 20200819 (394 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2020-08 (6350 cases)
+  - Month with Lowest Total Cases: 2020-05 (38 cases)
+
+COVID-19 Statistics for MI:
+  - Average Daily Cases: 1763.6
+  - Highest Cases on: 20201127 (17368 cases)
+  - Most Recent Zero New Cases on: 20200301
+  - Month with Highest Total Cases: 2020-11 (191536 cases)
+  - Month with Lowest Total Cases: 2020-06 (7160 cases)
+
+COVID-19 Statistics for VA:
+  - Average Daily Cases: 1442.61
+  - Highest Cases on: 20210117 (9914 cases)
+  - Most Recent Zero New Cases on: 20200127
+  - Month with Highest Total Cases: 2021-01 (155195 cases)
+  - Month with Lowest Total Cases: 2020-02 (0 cases)
+
+COVID-19 Statistics for PR:
+  - Average Daily Cases: 284.67
+  - Highest Cases on: 20210108 (2169 cases)
+  - Most Recent Zero New Cases on: 20200316
+  - Month with Highest Total Cases: 2020-12 (23746 cases)
+  - Month with Lowest Total Cases: 2020-03 (234 cases)
+
+COVID-19 Statistics for MT:
+  - Average Daily Cases: 275.72
+  - Highest Cases on: 20201114 (1642 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2020-11 (29397 cases)
+  - Month with Lowest Total Cases: 2020-05 (62 cases)
+
+COVID-19 Statistics for VT:
+  - Average Daily Cases: 43.47
+  - Highest Cases on: 20210102 (277 cases)
+  - Most Recent Zero New Cases on: 20200303
+  - Month with Highest Total Cases: 2021-01 (4553 cases)
+  - Month with Lowest Total Cases: 2020-05 (115 cases)
+
+COVID-19 Statistics for NM:
+  - Average Daily Cases: 507.94
+  - Highest Cases on: 20201119 (3665 cases)
+  - Most Recent Zero New Cases on: 20200305
+  - Month with Highest Total Cases: 2020-11 (50605 cases)
+  - Month with Lowest Total Cases: 2020-03 (281 cases)
+
+COVID-19 Statistics for MN:
+  - Average Daily Cases: 1335.18
+  - Highest Cases on: 20201128 (9022 cases)
+  - Most Recent Zero New Cases on: 20200306
+  - Month with Highest Total Cases: 2020-11 (170291 cases)
+  - Month with Lowest Total Cases: 2020-03 (915 cases)
+
+COVID-19 Statistics for SD:
+  - Average Daily Cases: 310.35
+  - Highest Cases on: 20201127 (2138 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2020-11 (34472 cases)
+  - Month with Lowest Total Cases: 2020-03 (108 cases)
+
+COVID-19 Statistics for IN:
+  - Average Daily Cases: 1779.37
+  - Highest Cases on: 20201203 (8460 cases)
+  - Most Recent Zero New Cases on: 20200227
+  - Month with Highest Total Cases: 2020-12 (172508 cases)
+  - Month with Lowest Total Cases: 2020-02 (0 cases)
+
+COVID-19 Statistics for NE:
+  - Average Daily Cases: 524.61
+  - Highest Cases on: 20201117 (3440 cases)
+  - Most Recent Zero New Cases on: 20200215
+  - Month with Highest Total Cases: 2020-11 (56821 cases)
+  - Month with Lowest Total Cases: 2020-02 (0 cases)
+
+COVID-19 Statistics for AL:
+  - Average Daily Cases: 1365.63
+  - Highest Cases on: 20210105 (5498 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2020-12 (111702 cases)
+  - Month with Lowest Total Cases: 2020-03 (981 cases)
+
+COVID-19 Statistics for ID:
+  - Average Daily Cases: 472.49
+  - Highest Cases on: 20201210 (2298 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2020-12 (39380 cases)
+  - Month with Lowest Total Cases: 2020-03 (414 cases)
+
+COVID-19 Statistics for MO:
+  - Average Daily Cases: 1313.23
+  - Highest Cases on: 20201114 (6346 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2020-11 (116576 cases)
+  - Month with Lowest Total Cases: 2020-03 (1327 cases)
+
+COVID-19 Statistics for CO:
+  - Average Daily Cases: 1183.2
+  - Highest Cases on: 20201113 (6439 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2020-11 (125555 cases)
+  - Month with Lowest Total Cases: 2020-03 (2964 cases)
+
+COVID-19 Statistics for MP:
+  - Average Daily Cases: 0.41
+  - Highest Cases on: 20210221 (8 cases)
+  - Most Recent Zero New Cases on: 20200316
+  - Month with Highest Total Cases: 2020-10 (22 cases)
+  - Month with Lowest Total Cases: 2021-03 (2 cases)
+
+COVID-19 Statistics for ME:
+  - Average Daily Cases: 125.12
+  - Highest Cases on: 20210102 (1044 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2021-01 (15123 cases)
+  - Month with Lowest Total Cases: 2020-03 (303 cases)
+
+COVID-19 Statistics for TN:
+  - Average Daily Cases: 2125.56
+  - Highest Cases on: 20210102 (17330 cases)
+  - Most Recent Zero New Cases on: 20200305
+  - Month with Highest Total Cases: 2020-12 (212309 cases)
+  - Month with Lowest Total Cases: 2020-03 (2238 cases)
+
+COVID-19 Statistics for AS:
+  - Average Daily Cases: 0.0
+  - Highest Cases on: N/A (0 cases)
+  - Most Recent Zero New Cases on: 20200316
+  - Month with Highest Total Cases: 2021-03 (0 cases)
+  - Month with Lowest Total Cases: 2021-03 (0 cases)
+
+COVID-19 Statistics for IA:
+  - Average Daily Cases: 769.44
+  - Highest Cases on: 20201109 (4381 cases)
+  - Most Recent Zero New Cases on: 20200306
+  - Month with Highest Total Cases: 2020-11 (82655 cases)
+  - Month with Lowest Total Cases: 2020-03 (497 cases)
+
+COVID-19 Statistics for WY:
+  - Average Daily Cases: 147.22
+  - Highest Cases on: 20201123 (1262 cases)
+  - Most Recent Zero New Cases on: 20200301
+  - Month with Highest Total Cases: 2020-11 (20007 cases)
+  - Month with Lowest Total Cases: 2020-03 (109 cases)
+
+COVID-19 Statistics for GA:
+  - Average Daily Cases: 2773.67
+  - Highest Cases on: 20201103 (31605 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2021-01 (242993 cases)
+  - Month with Lowest Total Cases: 2020-03 (3927 cases)
+
+COVID-19 Statistics for AK:
+  - Average Daily Cases: 155.0
+  - Highest Cases on: 20201205 (922 cases)
+  - Most Recent Zero New Cases on: 20200306
+  - Month with Highest Total Cases: 2020-11 (16011 cases)
+  - Month with Lowest Total Cases: 2020-05 (108 cases)
+
+COVID-19 Statistics for PA:
+  - Average Daily Cases: 2563.9
+  - Highest Cases on: 20201205 (12884 cases)
+  - Most Recent Zero New Cases on: 20200303
+  - Month with Highest Total Cases: 2020-12 (278861 cases)
+  - Month with Lowest Total Cases: 2020-03 (4843 cases)
+
+COVID-19 Statistics for NY:
+  - Average Daily Cases: 4531.45
+  - Highest Cases on: 20210115 (19942 cases)
+  - Most Recent Zero New Cases on: 20200302
+  - Month with Highest Total Cases: 2021-01 (436442 cases)
+  - Month with Lowest Total Cases: 2020-08 (19742 cases)
+
+COVID-19 Statistics for GU:
+  - Average Daily Cases: 21.7
+  - Highest Cases on: 20201109 (240 cases)
+  - Most Recent Zero New Cases on: 20200316
+  - Month with Highest Total Cases: 2020-10 (2193 cases)
+  - Month with Lowest Total Cases: 2021-03 (13 cases)
+
+COVID-19 Statistics for MS:
+  - Average Daily Cases: 813.06
+  - Highest Cases on: 20210107 (3255 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2020-12 (62541 cases)
+  - Month with Lowest Total Cases: 2020-03 (937 cases)
+
+COVID-19 Statistics for AZ:
+  - Average Daily Cases: 2239.71
+  - Highest Cases on: 20210103 (17234 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2021-01 (238197 cases)
+  - Month with Lowest Total Cases: 2020-03 (1287 cases)
+
+COVID-19 Statistics for DE:
+  - Average Daily Cases: 240.75
+  - Highest Cases on: 20210107 (1220 cases)
+  - Most Recent Zero New Cases on: 20200306
+  - Month with Highest Total Cases: 2020-12 (21802 cases)
+  - Month with Lowest Total Cases: 2020-03 (319 cases)
+
+COVID-19 Statistics for KY:
+  - Average Daily Cases: 1119.1
+  - Highest Cases on: 20210102 (8709 cases)
+  - Most Recent Zero New Cases on: 20200306
+  - Month with Highest Total Cases: 2021-01 (97628 cases)
+  - Month with Lowest Total Cases: 2020-03 (480 cases)
+
+COVID-19 Statistics for OR:
+  - Average Daily Cases: 425.69
+  - Highest Cases on: 20201205 (2174 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2020-12 (38140 cases)
+  - Month with Lowest Total Cases: 2020-03 (606 cases)
+
+COVID-19 Statistics for NJ:
+  - Average Daily Cases: 2072.98
+  - Highest Cases on: 20210113 (7880 cases)
+  - Most Recent Zero New Cases on: 20200210
+  - Month with Highest Total Cases: 2021-01 (169844 cases)
+  - Month with Lowest Total Cases: 2020-02 (0 cases)
+
+COVID-19 Statistics for OH:
+  - Average Daily Cases: 2658.89
+  - Highest Cases on: 20201208 (25721 cases)
+  - Most Recent Zero New Cases on: 20200305
+  - Month with Highest Total Cases: 2020-12 (279317 cases)
+  - Month with Lowest Total Cases: 2020-03 (2199 cases)
+
+COVID-19 Statistics for ND:
+  - Average Daily Cases: 274.29
+  - Highest Cases on: 20201114 (2329 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2020-11 (36485 cases)
+  - Month with Lowest Total Cases: 2020-03 (117 cases)
+
+COVID-19 Statistics for VI:
+  - Average Daily Cases: 7.6
+  - Highest Cases on: 20210117 (94 cases)
+  - Most Recent Zero New Cases on: 20200316
+  - Month with Highest Total Cases: 2020-08 (728 cases)
+  - Month with Lowest Total Cases: 2020-05 (3 cases)
+
+COVID-19 Statistics for NC:
+  - Average Daily Cases: 2363.62
+  - Highest Cases on: 20201226 (19419 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2021-01 (217981 cases)
+  - Month with Lowest Total Cases: 2020-03 (1497 cases)
+
+COVID-19 Statistics for NH:
+  - Average Daily Cases: 208.29
+  - Highest Cases on: 20210103 (1266 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2020-12 (23034 cases)
+  - Month with Lowest Total Cases: 2020-03 (365 cases)
+
+COVID-19 Statistics for MD:
+  - Average Daily Cases: 1052.5
+  - Highest Cases on: 20201204 (3792 cases)
+  - Most Recent Zero New Cases on: 20200305
+  - Month with Highest Total Cases: 2020-12 (78292 cases)
+  - Month with Lowest Total Cases: 2020-03 (1660 cases)
+
+COVID-19 Statistics for OK:
+  - Average Daily Cases: 1172.12
+  - Highest Cases on: 20210103 (8017 cases)
+  - Most Recent Zero New Cases on: 20200307
+  - Month with Highest Total Cases: 2021-01 (98536 cases)
+  - Month with Lowest Total Cases: 2020-03 (564 cases)
+
+COVID-19 Statistics for IL:
+  - Average Daily Cases: 3247.51
+  - Highest Cases on: 20201113 (15415 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2020-11 (309745 cases)
+  - Month with Lowest Total Cases: 2020-03 (5990 cases)
+
+COVID-19 Statistics for AR:
+  - Average Daily Cases: 885.06
+  - Highest Cases on: 20210101 (4304 cases)
+  - Most Recent Zero New Cases on: 20200306
+  - Month with Highest Total Cases: 2021-01 (70130 cases)
+  - Month with Lowest Total Cases: 2020-03 (523 cases)
+
+COVID-19 Statistics for CA:
+  - Average Daily Cases: 9488.73
+  - Highest Cases on: 20201216 (53711 cases)
+  - Most Recent Zero New Cases on: 20200304
+  - Month with Highest Total Cases: 2020-12 (1032411 cases)
+  - Month with Lowest Total Cases: 2020-03 (7429 cases)
+
+COVID-19 Statistics for RI:
+  - Average Daily Cases: 346.18
+  - Highest Cases on: 20201212 (1831 cases)
+  - Most Recent Zero New Cases on: 20200301
+  - Month with Highest Total Cases: 2020-12 (32818 cases)
+  - Month with Lowest Total Cases: 2020-03 (566 cases)
