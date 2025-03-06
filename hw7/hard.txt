@@ -1,0 +1,16 @@
+
+In a Binary Search Tree (BST), deleting a node involves three main scenarios:
+
+- Deleting a Leaf Node (No Children):
+    If the node to be deleted has no children, it is simply removed from the tree.
+
+- Deleting a Node with One Child:
+    If the node has only one child, it is replaced by its child, maintaining the BST properties.
+
+- Deleting a Node with Two Children:
+    When a node has two children, it is replaced with its inorder successor, which is the smallest value in its right subtree. The inorder successor is then deleted from its original position. This ensures that the tree remains properly structured.
+
+Challenges and Edge Cases:
+- Ensuring the BST remains balanced after deletion can be a concern in large datasets.
+- Handling the deletion of the root node requires extra care, as it changes the structure of the entire tree.
+- If the BST becomes skewed due to continuous deletions and insertions, balancing techniques like AVL trees or Red-Black trees may be necessary.
