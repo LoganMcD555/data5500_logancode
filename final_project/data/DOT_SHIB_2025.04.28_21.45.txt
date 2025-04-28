@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+DOT,SHIB,308424.90842491

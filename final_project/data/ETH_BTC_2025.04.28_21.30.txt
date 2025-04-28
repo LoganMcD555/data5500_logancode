@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+ETH,BTC,0.01889405

@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+ADA,ETH,0.0003916

@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+LTC,BTC,0.00090296

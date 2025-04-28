@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+XRP,ETH,0.00128359

@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+BTC,SOL,641.87342805

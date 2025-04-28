@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+MATIC,BTC,2.53e-06

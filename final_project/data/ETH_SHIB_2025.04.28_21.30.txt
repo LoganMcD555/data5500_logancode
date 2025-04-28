@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+ETH,SHIB,130990455.21292217

@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+MATIC,SOL,0.0016187

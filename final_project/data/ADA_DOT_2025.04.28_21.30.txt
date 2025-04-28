@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+ADA,DOT,0.16555687

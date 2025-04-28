@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+BTC,DOT,22376.06635071

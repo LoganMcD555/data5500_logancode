@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+BCH,ETH,0.19706124

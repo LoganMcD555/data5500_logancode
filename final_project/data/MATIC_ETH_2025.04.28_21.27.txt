@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+MATIC,ETH,0.00013375

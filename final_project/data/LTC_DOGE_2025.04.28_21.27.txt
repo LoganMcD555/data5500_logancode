@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+LTC,DOGE,479.57461175

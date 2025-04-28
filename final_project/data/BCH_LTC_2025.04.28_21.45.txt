@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+BCH,LTC,4.12942971

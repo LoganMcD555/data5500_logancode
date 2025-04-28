@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+XRP,BTC,2.425e-05

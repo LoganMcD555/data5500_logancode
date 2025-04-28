@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+ETH,AVAX,81.87941311

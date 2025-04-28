@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+BCH,BTC,0.0037197

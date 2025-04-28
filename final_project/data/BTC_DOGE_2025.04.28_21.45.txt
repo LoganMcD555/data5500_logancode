@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+BTC,DOGE,530129.75341235

@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+AVAX,DOT,5.16587678

@@ -1,0 +1,2 @@
+currency_from,currency_to,exchange_rate
+DOGE,BTC,1.88e-06
